@@ -15,8 +15,8 @@ The sketch uses three primary pins (Latch, Clock, and Data) on the 74HC595 to sh
 Below is the wiring diagram for the project:
 ![Project Wiring Diagram](Shift%20Register%20Binary%20Counter%20Wiring%20Diagram.png)
 
-### Schematic Diagram
-Below is the engineering schematic generated in Tinkercad (click to enlarge):
+### Schematic
+Below is the schematic generated in Tinkercad:
 [![Project Schematic](Shift%20Register%20Binary%20Counter%20Schematic.png)](Shift%20Register%20Binary%20Counter%20Schematic.png)
 
 ## 🎥 Video Demonstration
