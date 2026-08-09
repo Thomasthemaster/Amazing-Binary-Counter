@@ -9,10 +9,15 @@ The sketch uses three primary pins (Latch, Clock, and Data) on the 74HC595 to sh
 * **Software:** Arduino IDE
 * **Timing:** User-defined by typing it in the Serial Monitor and sending it to the Arduino. Can be re-defined every full LED cycle (256).
 
-## 📊 Wiring Diagram
-Below is the wiring diagram used to hook up the circuit made on Tinkercad:
+## 📊 Circuit Layouts
 
+### Wiring Diagram
+Below is the wiring diagram for the project:
 ![Project Wiring Diagram](Shift%20Register%20Binary%20Counter%20Wiring%20Diagram.png)
+
+### Schematic Diagram
+Below is the engineering schematic generated in Tinkercad (click to enlarge):
+[![Project Schematic](Shift%20Register%20Binary%20Counter%20Schematic.png)](Shift%20Register%20Binary%20Counter%20Schematic.png)
 
 ## 🎥 Video Demonstration
 Click the link below to watch the binary counter take a full-cycle in real-time:
