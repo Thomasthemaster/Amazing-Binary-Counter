@@ -15,6 +15,6 @@ Below is the wiring diagram used to hook up the circuit made on Tinkercad:
 ![Project Wiring Diagram](Shift%20Register%20Binary%20Counter%20Wiring%20Diagram.png)
 
 ## 🎥 Video Demonstration
-Click the image preview below to watch the binary counter take a full-cycle in real-time:
+Click the link below to watch the binary counter take a full-cycle in real-time:
 
 [![Watch the video](https://youtube.com)](https://youtube.com)
