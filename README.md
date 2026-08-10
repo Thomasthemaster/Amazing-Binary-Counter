@@ -1,4 +1,4 @@
-# 8-Bit Binary Counter with the 74HC595 Shift Register
+# Amazing Binary Counter
 
 An Arduino project that counts in binary (to 255) using a **74HC595 shift register** to control 8 LEDs (1 byte).
 
