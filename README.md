@@ -22,4 +22,4 @@ Below is the schematic generated in Tinkercad:
 ## 🎥 Video Demonstration
 Click the link below to watch the binary counter take a full-cycle in real-time:
 
-[![Watch the video](https://youtube.com)](https://youtube.com)
+[![Watch the video]([https://youtube.com](https://www.youtube.com/watch?v=4sl_HAsPrdA)]
