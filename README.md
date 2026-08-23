@@ -19,6 +19,11 @@ Below is the wiring diagram for the project:
 Below is the schematic generated in Tinkercad:
 [![Project Schematic](Shift%20Register%20Binary%20Counter%20Schematic.png)](Shift%20Register%20Binary%20Counter%20Schematic.png)
 
+## 🕹️ Simulation
+Below is the simulation in Tinkercad: 
+
+[Click here for simulation](https://www.tinkercad.com/things/8ffV3LLBvL4-shift-register-binary-counter-diagram?sharecode=c4VJzGQjGIZ0yJHJjzE8rF3PpvZFz64XIz_qWawljzI)
+
 ## 🎥 Video Demonstration
 Click the link below to watch the binary counter complete a full cycle in real-time:
 
