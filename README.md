@@ -19,6 +19,11 @@ Below is the wiring diagram for the project:
 Below is the schematic generated in Tinkercad:
 [![Project Schematic](Shift%20Register%20Binary%20Counter%20Schematic.png)](Shift%20Register%20Binary%20Counter%20Schematic.png)
 
+## 🖼️ Project Photo
+Click the button below to see a photo of the project (may have issues viewing on desktop):
+
+[Click here for photo](Amazing_Binary_Counter.png)
+
 ## 🕹️ Simulation
 Below is the simulation in Tinkercad: 
 
